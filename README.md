@@ -1,5 +1,5 @@
 # PacMan-Project
-DESCRIPTION:
+### DESCRIPTION:
 In this PacMan game you are able to add PacMan that move in random directions.
 
 ### HOW TO Play:
